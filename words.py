@@ -11,6 +11,7 @@ word_list = [
     'crust',
     'dent',
     'market',
+    'tree',
     'knock',
     'smite',
     'windy',
