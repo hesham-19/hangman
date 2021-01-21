@@ -10,6 +10,7 @@ word_list = [
     'backpack',
     'crust',
     'dent',
+    'doctor',
     'market',
     'tree',
     'knock',
